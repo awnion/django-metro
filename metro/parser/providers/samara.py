@@ -1,7 +1,3 @@
-import re
-import requests
-from bs4 import BeautifulSoup
-
 from metro.parser.base import BaseRuDataProvider
 
 
