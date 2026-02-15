@@ -4,6 +4,7 @@
 __pycache__/
 *.py[cod]
 *.so
+.ruff_cache
 
 # Distribution / packaging
 build/
